@@ -1,5 +1,5 @@
 # networks-IP2AS
-This project was a collaboration between myself and a classmate who goes by Mynti, for our computer networking assignment.
+This project was a collaboration between myself and a classmate who goes by Mynti for our computer networking assignment.
 
 IP2AS is a tool that analyzes then maps a given IP address to its corresponding AS number.
 The script will parse the list of IP addresses from "IPlist.txt", then declare if it aligns with any of the subnets defined in "DB_091803_v1.txt".
